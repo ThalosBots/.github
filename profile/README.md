@@ -1,4 +1,4 @@
-# 👋 TuTarea
+# 👋 Talos Automata
 
 Welcome to TuTarea!
 
