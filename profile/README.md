@@ -1,8 +1,8 @@
 # 👋 Talos Automata
 
-Welcome to TuTarea!
+Welcome to Talos!
 
-ℹ️ About TuTarea
+ℹ️ About Talos
 TuTarea is a community-driven organization focused on developing innovative solutions for task management. Our mission is to provide individuals and teams with effective tools and strategies to organize, prioritize, and complete tasks efficiently. We believe that by simplifying task management, we can enhance productivity, reduce stress, and promote personal and professional growth. 🚀💡
 
 ## 📌 Current Projects
