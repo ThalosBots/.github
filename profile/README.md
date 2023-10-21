@@ -1,9 +1,9 @@
-# 👋 Talos Automata
+# 👋 Thalos Automata
 
-Welcome to Talos!
+Welcome to Thalos!
 
 ℹ️ About Talos
-TuTarea is a community-driven organization focused on developing innovative solutions for task management. Our mission is to provide individuals and teams with effective tools and strategies to organize, prioritize, and complete tasks efficiently. We believe that by simplifying task management, we can enhance productivity, reduce stress, and promote personal and professional growth. 🚀💡
+Thalos is a community-driven organization focused on developing innovative solutions for task management. Our mission is to provide individuals and teams with effective tools and strategies to organize, prioritize, and complete tasks efficiently. We believe that by simplifying task management, we can enhance productivity, reduce stress, and promote personal and professional growth. 🚀💡
 
 ## 📌 Current Projects
 
@@ -11,7 +11,7 @@ TuTarea is a community-driven organization focused on developing innovative solu
 
 Description: We are implementing an API Wrapper for Vinted in Rust, in order to make it easier for Rust users to obtain and process data from the platform.
 
-Repository: [Vinted-rs](https://github.com/TuTarea/vinted-rs)
+Repository: [Vinted-rs](https://github.com/Thalos/vinted-rs)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started with our projects, please follow the instructions provided in eac
 
 We believe in the power of community and encourage you to join our growing community of task management enthusiasts. If you have questions, ideas, or need assistance with our projects, please feel free to reach out to us:
 
-Submit an issue on our repository: TuTarea Issues ❗📝
+Submit an issue on our repository: Thalos Issues ❗📝
 
 ## 📄 License
 
@@ -29,4 +29,4 @@ The code and documentation in this repository are available under the MIT Licens
 
 We look forward to your contributions and hope you find our projects valuable. Happy task managing! ✨📝
 
-TuTarea Team
+Thalos Team
