@@ -1,9 +1,10 @@
-# 👋 Thalos Automata
-
-Welcome to Thalos!
+# 🦀 Thalos Inc
 
 ℹ️ About Talos
-Thalos is a community-driven organization focused on developing innovative solutions for task management. Our mission is to provide individuals and teams with effective tools and strategies to organize, prioritize, and complete tasks efficiently. We believe that by simplifying task management, we can enhance productivity, reduce stress, and promote personal and professional growth. 🚀💡
+
+We are an opensource *rustacean* comunity of developers into bot developing. Here you can checkout some of our public API Wrappers for different projects, as well as some Telegram frameworks coded in Rust
+
+- [Frankestein Telegram API Wrapper](https://github.com/ayrat555/frankenstein)
 
 ## 📌 Current Projects
 
