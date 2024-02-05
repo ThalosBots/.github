@@ -1,6 +1,6 @@
 # 🦀 Thalos Inc
 
-ℹ️ About Talos
+ℹ️ About Thalos
 
 We are an opensource *rustacean* comunity of developers into bot developing. Here you can checkout some of our public API Wrappers for different projects, as well as some Telegram frameworks coded in Rust
 
