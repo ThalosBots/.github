@@ -1,6 +1,6 @@
 # 🗡️ Thalos Inc
 
-<img alt="Static Badge" src="https://img.shields.io/badge/contact-us?style=social&logo=gmail&labelColor=red&color=grey&link=mailto%3Ainfo%40thalos.es">
+<object data="https://img.shields.io/badge/contact-us?style=social&logo=gmail&labelColor=red&color=grey&link=mailto%3Ainfo%40thalos.es">
 
 *Short and quick*👋 We are a group on independent developer that get together to test-out the state of art and develop fun projects, along-side professional software products.
 
