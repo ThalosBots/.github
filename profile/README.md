@@ -1,33 +1,40 @@
-# 🦀 Thalos Inc
+# 🗡️ Thalos Inc
 
-ℹ️ About Thalos
+![Static Badge](https://img.shields.io/badge/contact-us!?style=flat-square&logo=protonmail&logoColor=grey&labelColor=red&color=grey&link=mailto%3Ainfo%40thalos.es)
 
-We are an opensource *rustacean* comunity of developers into bot developing. Here you can checkout some of our public API Wrappers for different projects, as well as some Telegram frameworks coded in Rust
+*Short and quick*👋 We are a group on independent developer that get together to test-out the state of art and develop fun projects, along-side professional software products.
 
-- [Frankestein Telegram API Wrapper](https://github.com/ayrat555/frankenstein)
+> ⚠️All the software made public is intended to be used in our products
 
-## 📌 Current Projects
 
-### 📋 Project 1: Vinted API Wrapper
+!["Website"](web.png)
 
-Description: We are implementing an API Wrapper for Vinted in Rust, in order to make it easier for Rust users to obtain and process data from the platform.
 
-Repository: [Vinted-rs](https://github.com/Thalos/vinted-rs)
 
-## 🚀 Getting Started
+<details>
+  <summary><h1>Projects</h1></summary>
 
-To get started with our projects, please follow the instructions provided in each project's repository. You will find detailed documentation, installation guides, and usage examples to help you get up and running quickly.
+## Vinted-rs
 
-## 💬 Community Support
+A complete Vinted API-Wrapper in Rust 🦀
 
-We believe in the power of community and encourage you to join our growing community of task management enthusiasts. If you have questions, ideas, or need assistance with our projects, please feel free to reach out to us:
+### Stats
 
-Submit an issue on our repository: Thalos Issues ❗📝
+<img src="https://myreadme.vercel.app/api/embed/thaloses?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-## 📄 License
+</details>
 
-The code and documentation in this repository are available under the MIT License. Please review the license file for more details.
+<details>
+  <summary><h1>📄 License</h1></summary>
 
-We look forward to your contributions and hope you find our projects valuable. Happy task managing! ✨📝
+Currently, all the code and docs made public are available under the MIT License. Please review the license file inside each project for more details.
 
-Thalos Team
+We look forward to your contributions and hope you find our projects valuable.
+
+</details>
+
+### Thalos Team ⚔️
+
+<a href="https://github.com/ThalosES/vinted-rs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ThalosES/vinted-rs" alt="Made with [contrib.rocks](https://contrib.rocks)"/>
+</a>
