@@ -18,9 +18,7 @@
 
 A complete Vinted API-Wrapper in Rust 🦀
 
-### Stats
-
-<img src="https://myreadme.vercel.app/api/embed/thaloses?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Crates.io Total Downloads](https://img.shields.io/crates/d/vinted-rs?logo=rust&color=orange)
 
 </details>
 
