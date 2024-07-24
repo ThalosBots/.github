@@ -57,6 +57,8 @@ We look forward to your contributions and hope you find our projects valuable.
 <img alt="Static Badge" src="https://img.shields.io/badge/contact-us?style=social&logo=gmail">
 </a>
 
+<br>
+
 <a href="https://github.com/ThalosES/vinted-rs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ThalosES/vinted-rs" alt="Made with [contrib.rocks](https://contrib.rocks)"/>
 </a>
