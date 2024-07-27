@@ -4,7 +4,7 @@
 
 *Short and quick*👋 We are a group on independent developer that get together to test-out the state of art and develop fun projects, along-side professional software products.
 
-> ⚠️All the software made public is intended to be used in our products
+> ⚠️ All the software made public is intended to be used in our products
 
 <details>
   <summary><h1>How to contribute?</h1></summary>
